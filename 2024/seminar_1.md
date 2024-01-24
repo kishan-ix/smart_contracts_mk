@@ -25,6 +25,26 @@ This is the first seminar for the Smart Contract module.
 	- 0x00000078
 	- 0000000010110111011
 
+0x09 (Hexadecimal)
+Binary: 00001001
+Decimal: 9
+
+0Xaf93Bfc4 (Hexadecimal)
+Binary: 10101111100100111011111111000100
+Decimal: 2949205700
+
+2 (Decimal)
+Binary: 10
+Hexadecimal: 0x2
+
+0x00000078 (Hexadecimal)
+Binary: 01111000
+Decimal: 120
+
+0000000010110111011 (Binary)
+Decimal: 7595
+Hexadecimal: 0x1DBB
+
 * 0.B) Using the website block explorer https://blockchair.com/bitcoin/, take a look the latest block in Bitcoin. Select the hex string that is the block's header. Using whatever tools you prefer, convert this block header to binary and decimal. 
 
 * 0.C) Do the same for question 0.B, for the genesis block in Bitcoin, (You may use https://blockchair.com/bitcoin/). How do the numbers compare between 0.B and 0.C? Why are the numbers so different?
